@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test images
+*.jpg
+*.jpeg
+*.png
+
+# IDE
+.vscode/
+.idea/
