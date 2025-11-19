@@ -21,7 +21,6 @@ node_modules/
 .idea/
 *.swp
 *.swo
-README_SERVER.md
 
 # OS
 .DS_Store
